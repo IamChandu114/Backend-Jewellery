@@ -81,3 +81,8 @@ jewellery-backend/
 ├── index.js
 ├── package.json
 └── README.md
+
+Developer
+Chandu Vemula
+Backend Developer (Node.js)
+GitHub: https://github.com/IamChandu114
